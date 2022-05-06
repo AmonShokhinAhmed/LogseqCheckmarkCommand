@@ -1,0 +1,19 @@
+{
+  "name": "logseq-checkmark-command",
+  "version": "0.0.1",
+  "author": "Amon Ahmed",
+  "main": "index.html",
+  "description": "A simple checkmark command that works for whole blocks.",
+  "license": "MIT",
+  "devDependencies": {
+    "@logseq/libs": "^0.0.1-alpha.29"
+  },
+  "browserslist": [
+    "chrome 80"
+  ],
+  "logseq": {
+    "title": "Checkmark Command",
+    "icon": "icon.png",
+    "id": "_se4a1gfg6"
+  }
+}
